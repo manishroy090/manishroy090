@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @manishray-unlimitedremit
+# 👋 Hi, I’m @manishroy
 
 ## 👀 I’m Interested In
 - Web development & design

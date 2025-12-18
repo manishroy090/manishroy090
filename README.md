@@ -17,9 +17,9 @@
 - Tailwind CSS and Alpine.js UI libraries
 
 ## 📫 How to Reach Me
-- Email: [manish@unlimitedremit.com](mailto:manish@unlimitedremit.com)  
+- Email: [manish@unlimitedremit.com](mailto:manishkuyadav090@gmail.com)  
 - LinkedIn: [linkedin.com/in/manish696](https://www.linkedin.com/in/manish696/)  
-- GitHub: [@manishray-unlimitedremit](https://github.com/manishray-unlimitedremit)
+- GitHub: [@manishray-unlimitedremit](https://github.com/manishroy090)
 
 ## 😄 Pronouns
 He/Him
